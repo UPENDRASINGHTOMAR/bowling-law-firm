@@ -43,7 +43,7 @@ header.show { position: fixed; -webkit-animation:stickyhead ease-in-out 0.4s 0.1
 
 .banner-section{position: relative;}
 
-.banner-section .caption{ position: absolute; top: 145px; color: #fff; width: 585px; }
+.banner-section .caption{ position: absolute; top: 145px; color: #fff; width: 585px;  text-align: center;}
 .banner-section h1{ font-weight: 700; padding-bottom: 40px; }
 .banner-section h1 span{ padding: 0 15px; }
 .button-row{ display: flex; justify-content: center; }
