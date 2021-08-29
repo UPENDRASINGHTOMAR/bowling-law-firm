@@ -62,7 +62,7 @@ header{ padding-top: 32px; padding-bottom: 28px; }
 .cases-section .cases-list figure{ margin-bottom: 30px; }
 .cases-section .cases-list p{ padding-bottom: 45px; }
 .reviews-section{padding: 50px 0 45px 0}
-.reviews-area{text-align: center; flex-direction:column-reverse;padding-bottom: 40px;}
+.reviews-area{text-align: center; flex-direction:column-reverse; padding-bottom: 40px;}
 .reviews-area-left{ width: 100%; padding-right:0px; }
 .reviews-area-right{ width: 100%; padding-left: 0px; margin-bottom: 20px;}
 .reviews-list .review{ width: 100%; text-align: center; }
@@ -97,7 +97,7 @@ h2{ font-size: 29px; line-height: 34px;}
 .banner-section h1 span{ padding: 0px; }
 .intro-section .intro-col-left{ width: 100%; margin-bottom: 40px; }
 .intro-section .intro-col-right{ width: 100%; padding-left: 0px; padding-bottom: 45px; }
-
+.cases-section .button{ width: 100% }
 .reviews-section{ padding-top: 15px; }
 .review span{ font-size: 20px; line-height: 25px; }
 .custom-form, .custom-form h2{ padding-left: 15px; padding-right: 15px; }
