@@ -46,7 +46,8 @@ h3{ font-size: 25px; line-height: 30px; }
 .h2 { font-size: 25px; line-height: 30px;}
 .custom-form .h2 { font-size: 30px; line-height: 35px;}
 
-#wrapper { padding-top: 98px; }
+#wrapper { padding-top: 118px; }
+header{ padding-top: 32px; padding-bottom: 28px; }
 .header-parts .logo{ width: 263px; }
 .header-right-part a{ padding: 14px; }
 .header-right-part span{ display: none; }
